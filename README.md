@@ -7,7 +7,7 @@ in $name.md fill like this
 
 example:
 
-https://github.com/Xnuvers007/GCD/2022/Xnuvers007.md
+https://github.com/Xnuvers007/GCD/blob/master/2022/Xnuvers007.md
 
 Xnuvers007.md
 -  Photo : url avatar github
